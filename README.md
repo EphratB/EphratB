@@ -1,4 +1,4 @@
-Hi there 👋 I'm Ephrat B, a web developer and internet application graduate from Fanshawe College. With a GPA of 4.04, https://gradecalc.info/ca/on/fanshawe/gpa_calc.pl  I have acquired extensive knowledge in various programming languages and frameworks. Some of the languages and frameworks I'm proficient in include **JavaScript**, **Angular**, **React**, **TypeScript**, **React Native, PHP, WordPress, CMS, HTML5, and CSS**.
+Hi there 👋 I'm Ephrat B, a web developer and internet application graduate from Fanshawe College. With a GPA of 4.04, (https://bit.ly/3IIKW5Y) I have acquired extensive knowledge in various programming languages and frameworks. Some of the languages and frameworks I'm proficient in include **JavaScript**, **Angular**, **React**, **TypeScript**, **React Native, PHP, WordPress, CMS, HTML5, and CSS**.
 
 I have hands-on experience with a wide range of tools and frameworks such as **Node.js, React, Sass, Material-UI, Bootstrap, Docker, Git, GitHub, GitLab, Netlify, Heroku, npm, Visual Studio Code, Android Studio, Visual Studio, Angular, React Native, Python, PHP, MySQL, Xampp, Wamp, VMWare, Vercel, and Expo.**
 
